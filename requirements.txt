@@ -1,0 +1,11 @@
+streamlit
+pymongo
+bleak
+plotly
+pandas
+python-dotenv 
+numpy       
+pytest        
+black         
+flake8         
+mypy           
